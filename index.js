@@ -7,3 +7,5 @@ console.log("cool")
 console.log(cool")
 console.log("cool")
 console.log("cool")
+
+console.warn("nice")
